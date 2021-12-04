@@ -1,0 +1,8 @@
+*.pdf
+.ipynb_checkpoints/
+.idea
+__pycache__/
+*.pth
+*.tar
+*.dat
+*mp4
